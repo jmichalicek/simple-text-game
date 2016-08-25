@@ -1,0 +1,25 @@
+100
+101 102 103 104
+This is room 100 description.
+ENDROOM
+101
+102 100 103 104
+This is room 101 description.
+ENDROOM
+102
+103 101 103 104
+This is room 102 description.
+ENDROOM
+103
+104 102 103 104
+This is room 103 description.
+ENDROOM
+104
+105 103 103 104
+This is room 104 description.
+ENDROOM
+105
+100 104 103 104
+This is room 105 description.
+ENDROOM
+
